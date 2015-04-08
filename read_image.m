@@ -1,4 +1,4 @@
-filename = 'tmp.data';
+filename = 'julia.img';
 fid = fopen(filename, 'r');
 dat = fread(fid);
 fclose(fid);
